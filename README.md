@@ -48,7 +48,7 @@ The Title of our project is Exam Spot Guide. This website provides the informati
 ![backup policy](https://github.com/samithayaram/SRA-Travels/blob/4985a3e8e396911bd0098db596cdb2debaa03b3f/backup%20policy.png)
 
 # Azure Bot
-![azure bot](https://itsram175.github.io/examspotguide/Screenshots/AzureBot.png)
+![azure bot](https://github.com/samithayaram/SRA-Travels/blob/b1c03ed793ea64bc5e9d79dce40cadf7657631f1/Azure%20bot.png)
 
 # Test in web chat
 ![test in webchat](https://itsram175.github.io/examspotguide/Screenshots/testInWeb.png)
