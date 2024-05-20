@@ -65,7 +65,7 @@ Here I am attaching the final working website's screenshot for the reference.
 ![Our Team](https://github.com/samithayaram/SRA-Travels/blob/cbaeacdc0c73c67664604aceeac20c82d8105c8f/Services.png)
 
 # Packages
-![contact Us](https://itsram175.github.io/examspotguide/Screenshots/contactUs.png)
+![contact Us](https://github.com/samithayaram/SRA-Travels/blob/e1c83712436b4ddb45a289f490e61700633ffe4b/packages.png)
 
 # Exam Centres
 ![Exam Centres](https://itsram175.github.io/examspotguide/Screenshots/examCentres.png)
