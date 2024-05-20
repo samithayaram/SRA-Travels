@@ -89,12 +89,9 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 # Final Project Statement:
-Our website helps the canditates who are appearing for various competative and entrance examinations in various CBT Examination centres across Hyderabad. We provide valuable information about CBT exam centres such as facilities provided by the exam centres, location of the exam centre, how to reach the exam from key Bus stations and Railways Station in Hyderabad.
+The travel website is in a good position to continue growing and improving in the future. Upcoming improvements might incorporate AI-powered suggestions, give more individualised user experiences, and increase the amount of information available. Frequent user interaction and input will keep the website current and helpful by fostering improvements.
 
-
-
-
-
+In summary, the travel website project has been successful in creating a dynamic platform that satisfies the requirements of contemporary tourists. Travellers choose it because it offers a seamless user experience, comprehensive functionality, and significant information,arranging and motivation.
 
 
 
