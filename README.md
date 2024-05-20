@@ -58,7 +58,7 @@ Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-![home](https://itsram175.github.io/examspotguide/Screenshots/homePage.png)
+![home](https://github.com/samithayaram/SRA-Travels/blob/b51aa48127f1c765d3a2b3f8fb055a9a949d3aa5/Home.png)
 
 # Exam Centres
 ![Exam Centres](https://itsram175.github.io/examspotguide/Screenshots/examCentres.png)
