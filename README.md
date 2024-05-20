@@ -36,8 +36,6 @@ The Title of our project is Exam Spot Guide. This website provides the informati
 # Container
 ![container](https://github.com/samithayaram/SRA-Travels/assets/117803477/5927d230-162a-4ec8-a665-9da16ffceb48)
 
-
-
 # Backup vault
 ![backup vault](https://github.com/samithayaram/SRA-Travels/blob/2019e0eb4d963bbd6c4e2cb37f0a45e64302ff03/backup%20vault.png)
 
@@ -59,9 +57,6 @@ Here I am attaching the final working website's screenshot for the reference.
 # Working Live Project Display:
 # Home page
 ![home](https://github.com/samithayaram/SRA-Travels/blob/b51aa48127f1c765d3a2b3f8fb055a9a949d3aa5/Home.png)
-
-# Exam Centres
-![Exam Centres](https://itsram175.github.io/examspotguide/Screenshots/examCentres.png)
 
 # About Us
 ![About Us](https://github.com/samithayaram/SRA-Travels/blob/b1ba9ca225526b292f207e568ba8478207031e8e/About%20us.png)
