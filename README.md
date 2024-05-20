@@ -4,8 +4,8 @@ This website provides the information about various Computer Based Test (CBT) Ex
 # Project Details
 1. Project Demo URL: https://sratravelstorage.z13.web.core.windows.net/
 2. Demo Video URL: https://youtu.be/aSKvr6P-VJs?si=LnM6nS2pUh9X-fpr
-3. GitHub Repository URL: https://github.com/itsram175/examspotguide
-4. Industry: Travel - Education
+3. GitHub Repository URL: https://github.com/samithayaram/SRA-Travels.git
+4. Industry: SRA Travels
    
 # Roles and responsibilities
 1. Yaram Samitha (Project management) : Manages the web development project.
