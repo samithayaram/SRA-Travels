@@ -45,7 +45,7 @@ The Title of our project is Exam Spot Guide. This website provides the informati
 ![role assignment](https://github.com/samithayaram/SRA-Travels/blob/c204e4791885eead2878979cc506c8309f670b77/role%20assignment.png)
 
 # Backup policy
-![backup policy](https://itsram175.github.io/examspotguide/Screenshots/BackupPolicy.png)
+![backup policy](https://github.com/samithayaram/SRA-Travels/blob/4985a3e8e396911bd0098db596cdb2debaa03b3f/backup%20policy.png)
 
 # Azure Bot
 ![azure bot](https://itsram175.github.io/examspotguide/Screenshots/AzureBot.png)
