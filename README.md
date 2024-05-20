@@ -1,5 +1,5 @@
 # SRA Travels
-This website provides the information about various Computer Based Test (CBT) Examination Centres across Hyderabad. As many Entrance exams and Competitive exams will be conducted in CBT mode, Many people from many villages of Telangana and neighbour states like Andhra Pradesh and Karnataka comes to Hyderabad for attending for those examinations. They will not have any proper guidance about how to reach the centre from Bus Station or Railway Stations of Hyderabad where they are alighted. They may faces some problems while searching their examination centres. To help them in such situations we have made this website.
+This website is used to travel by bus, airplane, and other means. It also offers information on tourist destinations and travel tips.People can get assistance from this SRA Travels website when traveling to several locations, such as Thailand, France, and Paris, among others.You and your family will be more comfortable and happy as a result of this trip.
 
 # Project Details
 1. Project Demo URL: https://sratravelstorage.z13.web.core.windows.net/
