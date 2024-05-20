@@ -74,16 +74,10 @@ Here I am attaching the final working website's screenshot for the reference.
 ![Contact Us](https://github.com/samithayaram/SRA-Travels/blob/072b4f7c227693511e03c84418bda5818696d0d2/Contact%20us.png)
 
 # Book Now
-![Booking](https://itsram175.github.io/examspotguide/Screenshots/aboutCenter.png)
-
-# Exam Centre Photo Gallery
-![Photo Gallery](https://itsram175.github.io/examspotguide/Screenshots/photoGallery.png)
-
-# Route Guide
-![Route Guide](https://github.com/samithayaram/SRA-Travels/blob/32ca1da7ec53eccacb3af342abd1c447b12deaf3/Screenshot%20(15).png)
+![Booking](https://github.com/samithayaram/SRA-Travels/blob/73cc7c5de7e97f6bfcbd7896e0bb0d001c223b3b/Booking.jpeg)
 
 # Footer
-![contact page](https://github.com/samithayaram/SRA-Travels/blob/a29806084412dd19b882d3fdf5664a4c141e8044/Screenshot%20(15).png)
+![Footer Page](https://github.com/samithayaram/SRA-Travels/blob/a29806084412dd19b882d3fdf5664a4c141e8044/Screenshot%20(15).png)
 
 
 # Final Project Statement:
