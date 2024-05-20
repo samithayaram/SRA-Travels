@@ -42,7 +42,7 @@ The Title of our project is Exam Spot Guide. This website provides the informati
 ![backup vault](https://github.com/samithayaram/SRA-Travels/blob/2019e0eb4d963bbd6c4e2cb37f0a45e64302ff03/backup%20vault.png)
 
 # Role assignment
-![role assignment](https://itsram175.github.io/examspotguide/Screenshots/RoleAssignment.png)
+![role assignment](https://github.com/samithayaram/SRA-Travels/blob/c204e4791885eead2878979cc506c8309f670b77/role%20assignment.png)
 
 # Backup policy
 ![backup policy](https://itsram175.github.io/examspotguide/Screenshots/BackupPolicy.png)
