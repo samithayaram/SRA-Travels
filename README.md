@@ -62,16 +62,16 @@ Here I am attaching the final working website's screenshot for the reference.
 ![About Us](https://github.com/samithayaram/SRA-Travels/blob/b1ba9ca225526b292f207e568ba8478207031e8e/About%20us.png)
 
 # Services
-![Our Team](https://github.com/samithayaram/SRA-Travels/blob/cbaeacdc0c73c67664604aceeac20c82d8105c8f/Services.png)
+![Services](https://github.com/samithayaram/SRA-Travels/blob/cbaeacdc0c73c67664604aceeac20c82d8105c8f/Services.png)
 
 # Packages
-![contact Us](https://github.com/samithayaram/SRA-Travels/blob/e1c83712436b4ddb45a289f490e61700633ffe4b/packages.png)
+![Packages](https://github.com/samithayaram/SRA-Travels/blob/e1c83712436b4ddb45a289f490e61700633ffe4b/packages.png)
 
-# Exam Centres
-![Exam Centres](https://itsram175.github.io/examspotguide/Screenshots/examCentres.png)
+# Travel Guides
+![Guides](https://github.com/samithayaram/SRA-Travels/blob/daf5d81fdfb53ef83343f542d857db1d32715869/Travel%20Guides.png)
 
-# Exam Centre Overview
-![Overview](https://itsram175.github.io/examspotguide/Screenshots/examCentreInfo.png)
+# Contact Us
+![Contact Us](https://itsram175.github.io/examspotguide/Screenshots/examCentreInfo.png)
 
 # About Exam Centre
 ![About Exam Centre](https://itsram175.github.io/examspotguide/Screenshots/aboutCenter.png)
