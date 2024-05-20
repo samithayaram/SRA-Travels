@@ -89,7 +89,7 @@ Here I am attaching the final working website's screenshot for the reference.
 ![Route Guide](https://itsram175.github.io/examspotguide/Screenshots/routeGuide.png)
 
 # Footer
-![contact page](https://itsram175.github.io/examspotguide/Screenshots/footer.png)
+![contact page](https://github.com/samithayaram/SRA-Travels/blob/a29806084412dd19b882d3fdf5664a4c141e8044/Screenshot%20(15).png)
 
 
 # Final Project Statement:
