@@ -2,16 +2,16 @@
 This website provides the information about various Computer Based Test (CBT) Examination Centres across Hyderabad. As many Entrance exams and Competitive exams will be conducted in CBT mode, Many people from many villages of Telangana and neighbour states like Andhra Pradesh and Karnataka comes to Hyderabad for attending for those examinations. They will not have any proper guidance about how to reach the centre from Bus Station or Railway Stations of Hyderabad where they are alighted. They may faces some problems while searching their examination centres. To help them in such situations we have made this website.
 
 # Project Details
-1. Project Demo URL: https://esgstorageaccount123.z13.web.core.windows.net/
-2. Demo Video URL: https://youtu.be/FfWw0bpEBI0
+1. Project Demo URL: https://sratravelstorage.z13.web.core.windows.net/
+2. Demo Video URL: https://youtu.be/aSKvr6P-VJs?si=LnM6nS2pUh9X-fpr
 3. GitHub Repository URL: https://github.com/itsram175/examspotguide
 4. Industry: Travel - Education
    
 # Roles and responsibilities
-1. D Ram teja (Project management) : Manages the web development project.
-2. B Vinod Kumar (Deployment) : Deployment and maintenance of project infrastructure.
-3. CH Durga Prasad (Data and chat bot questions) : Responsible for gathering data required for website and chat bot questions.
-4. Y Varshitha (Images and Documentation) : Responsible for collecting Images required for website and managing the documentation process.
+1. Yaram Samitha (Project management) : Manages the web development project.
+2. MD Adil Ameen (Deployment) : Deployment and maintenance of project infrastructure.
+3. V Ramesh (Data and chat bot questions) : Responsible for gathering data required for website and chat bot questions.
+4. D Satish (Images and Documentation) : Responsible for collecting Images required for website and managing the documentation process.
 # Azure services used:
 1. Azure blob storage
 2. Storage account
@@ -94,3 +94,11 @@ Here I am attaching the final working website's screenshot for the reference.
 
 # Final Project Statement:
 Our website helps the canditates who are appearing for various competative and entrance examinations in various CBT Examination centres across Hyderabad. We provide valuable information about CBT exam centres such as facilities provided by the exam centres, location of the exam centre, how to reach the exam from key Bus stations and Railways Station in Hyderabad.
+
+
+
+
+
+
+
+
