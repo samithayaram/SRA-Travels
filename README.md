@@ -51,10 +51,7 @@ The Title of our project is Exam Spot Guide. This website provides the informati
 ![azure bot](https://github.com/samithayaram/SRA-Travels/blob/b1c03ed793ea64bc5e9d79dce40cadf7657631f1/Azure%20bot.png)
 
 # Test in web chat
-![test in webchat](https://itsram175.github.io/examspotguide/Screenshots/testInWeb.png)
-
-# Resource visualizer
-![resource visualizer](https://itsram175.github.io/examspotguide/Screenshots/resourceVisualizer.png)
+![test in webchat](https://github.com/samithayaram/SRA-Travels/blob/92afdb27caad86cd8289ecfe4ef1f46ff43f977b/Test%20in%20web%20chat.png)
 
 # Description
 Here I am attaching the final working website's screenshot for the reference.
