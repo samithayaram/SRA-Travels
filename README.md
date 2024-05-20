@@ -77,7 +77,7 @@ Here I am attaching the final working website's screenshot for the reference.
 ![Booking](https://github.com/samithayaram/SRA-Travels/blob/73cc7c5de7e97f6bfcbd7896e0bb0d001c223b3b/Booking.jpeg)
 
 # Footer
-![Footer Page](https://github.com/samithayaram/SRA-Travels/blob/a29806084412dd19b882d3fdf5664a4c141e8044/Screenshot%20(15).png)
+![Footer Page](https://github.com/samithayaram/SRA-Travels/blob/d2df7812fbd3d4e53078b2d37a80a771b605229d/Footer.jpeg)
 
 
 # Final Project Statement:
