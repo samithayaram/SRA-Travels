@@ -62,7 +62,7 @@ Here I am attaching the final working website's screenshot for the reference.
 ![About Us](https://github.com/samithayaram/SRA-Travels/blob/b1ba9ca225526b292f207e568ba8478207031e8e/About%20us.png)
 
 # Services
-![Our Team](https://itsram175.github.io/examspotguide/Screenshots/ourTeam.png)
+![Our Team](https://github.com/samithayaram/SRA-Travels/blob/cbaeacdc0c73c67664604aceeac20c82d8105c8f/Services.png)
 
 # Contact Us
 ![contact Us](https://itsram175.github.io/examspotguide/Screenshots/contactUs.png)
