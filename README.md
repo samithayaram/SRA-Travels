@@ -71,10 +71,10 @@ Here I am attaching the final working website's screenshot for the reference.
 ![Guides](https://github.com/samithayaram/SRA-Travels/blob/daf5d81fdfb53ef83343f542d857db1d32715869/Travel%20Guides.png)
 
 # Contact Us
-![Contact Us](https://itsram175.github.io/examspotguide/Screenshots/examCentreInfo.png)
+![Contact Us](https://github.com/samithayaram/SRA-Travels/blob/072b4f7c227693511e03c84418bda5818696d0d2/Contact%20us.png)
 
-# About Exam Centre
-![About Exam Centre](https://itsram175.github.io/examspotguide/Screenshots/aboutCenter.png)
+# Book Now
+![Booking](https://itsram175.github.io/examspotguide/Screenshots/aboutCenter.png)
 
 # Exam Centre Photo Gallery
 ![Photo Gallery](https://itsram175.github.io/examspotguide/Screenshots/photoGallery.png)
