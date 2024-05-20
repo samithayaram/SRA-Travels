@@ -28,7 +28,7 @@ The Title of our project is Exam Spot Guide. This website provides the informati
 
 # Screenshot’s:
 # Storage Account
-![storage account](https://github.com/samithayaram/SRA-Travels/blob/154775df66a6adc6d499f6249398c225cae7c838/Screenshot%20(15).png)
+![storage account](https://github.com/samithayaram/SRA-Travels/blob/cb58761e2aae4742485a10bcbade60bc0541ea49/Storage%20account.png)
 
 # Static website
 ![static website](https://itsram175.github.io/examspotguide/Screenshots/staticWebsite.png)
